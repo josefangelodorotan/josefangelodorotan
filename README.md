@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @josefangelodorotan
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT / REACT /RUBY ON RAILS
+-    HTML/CSS/JAVASCRIPT / REACT /RUBY ON RAILS/ POSTGRESQL
 
 - 📫 You can reach me at  - josefangelo.dorotan@gmail.com
 
