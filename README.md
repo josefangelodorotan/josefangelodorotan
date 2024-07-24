@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josefangelodorotan
--    HTML/CSS/JAVASCRIPT / REACT /RUBY ON RAILS/ POSTGRESQL
+-    HTML/CSS/JAVASCRIPT / EXPRESS JS / NODE  / REACT /RUBY ON RAILS/ POSTGRESQL
 
 - 📫 You can reach me at  - josefangelo.dorotan@gmail.com
 
